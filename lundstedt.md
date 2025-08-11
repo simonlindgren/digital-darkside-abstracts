@@ -1,0 +1,5 @@
+## Making Sense of Senseless Violence: Introducing the '764 Network' as a case of emerging online extremism
+
+Over the past two years, a series of unprovoked violent acts committed by minors have been observed across different parts of Sweden. Although rare, these incidents have attracted considerable attention due to their connection to the digital tendency known as ‘764’ – a connection established primarily through livestreamed footage and other digital traces left behind by the perpetrators. These developments call for closer attention to the ways in which digital cultures may contribute to the production, performance, and circulation of violent acts. This presentation offers both a descriptive and analytical account of the 764 network, outlining its core features and identifying key areas for future research.
+
+[Back to symposium programme](https://digsum.org/dda)

@@ -1,0 +1,5 @@
+## Dark Platforms: Not Just a Problem to Be Solved
+
+Alternative social media platforms are often viewed through the narrow lens of high-profile, ideologically driven cases like Gab or Truth Social—typically framed as reactionary responses to content moderation. This talk challenges that limited perspective by introducing the concept of “dark platforms,” which promotes a broader understanding that moves beyond U.S.-centric and 'right-wing' contexts. Drawing on the speaker’s prior work and a forthcoming book, it reframes alternative platforms as diverse digital ecosystems shaped by distinct social, political, and cultural forces. These platforms may function as cultural sanctuaries, tools for grassroots mobilization, or clandestine channels operated by dissident activists under authoritarian regimes. Rather than treating these “dark platforms” merely as problems to be solved, the talk invites a critical rethinking of their roles—revealing how they reflect the fractures, desires, and evolving possibilities within today’s global platform landscape.
+
+[Back to symposium programme](https://digsum.org/dda)

@@ -1,0 +1,7 @@
+## Policing online child sexual abuse – Organizational challenges and investigator wellbeing
+
+Online child sexual abuse (CSA) is a growing global issue, driven by digitalization, increased internet access, online anonymity, and evolving digital tools that enable new forms of abuse. In response, national police forces have established specialized teams of police officers, digital forensics and analysts to investigate these crimes.
+These teams face significant organizational challenges. High case inflow, complex investigations, and growing backlogs strain resources. CSA cases often cross organizational and geographical boundaries and require both digital expertise and understanding of child sexual abuse. Repeated exposure to online CSA takes a mental toll on investigators and heightens the risk of poor wellbeing and secondary traumatisation.
+As online CSA investigation teams are a recent development, research on the specific challenges in their work is still emerging. In this presentation, I share findings from an ongoing project that explores organizational challenges, investigator wellbeing and the potential of collaborative approaches to enhance investigative practices.
+
+[Back to symposium programme](https://digsum.org/dda)

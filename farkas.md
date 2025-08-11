@@ -1,0 +1,5 @@
+## Negative campaigning and mobilization through visual disinformation
+
+This study investigates visual disinformation strategies and the extent of disinformation narratives used by astroturf political influences for negative campaigning and mobilization.  Political influencers can be grassroots actors in campaigns with genuine content. However, without disclosing their real intentions and connections to political actors, their activity can be considered astroturfing, which is a form of disinformation with the intentional spread of fabricated information. Through a qualitative visual and verbal content analysis of the Facebook posts of Hungarian astroturf political influencers during the 2022 national election campaign, the study highlights that disinformation is often used for both mobilization and negative campaigning, and visual disinformation, especially decontextualized images and videos, are more prevalent than purely verbal disinformation. Accordingly, astroturf visual disinformation is frequently used to misrepresent opponents’ actions and views, painting them in an unfavorable light.
+
+[Back to symposium programme](https://digsum.org/dda)

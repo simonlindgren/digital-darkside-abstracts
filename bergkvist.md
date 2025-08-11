@@ -1,0 +1,5 @@
+## Forbidden Fields: The Selling and Buying of Women's Bodies Through Online Brothels
+ 
+Due to Sexköpslagen, there are no officially permitted brothels in Sweden. Consequently, almost all the prostitution in Sweden is internet-based. The online brothels are, like the physical ones, illicit but much harder to close down since the servers are located in other countries. This means that prostitution today exists just a search word away. For my dissertation, I will observe these sites to better grasp the continuum of the Swedish sex trade. Yet, what those this make me? To study others online, without them knowing and without being part of the context itself, has been described as lurking, like peeking through a keyhole to see what's going on in there, even though it's not really your business. Yet, with this project, I’ll make it mine.
+
+[Back to symposium programme](https://digsum.org/dda)

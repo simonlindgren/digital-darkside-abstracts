@@ -1,0 +1,5 @@
+## Synthetic or Authentic? - The Evidentiary Challenges of Deepfakes and AI-Generated Media
+
+Deepfake technology, powered by generative artificial intelligence, enables the creation of highly realistic yet fabricated audio-visual content. This poses serious challenges for the criminal justice system by undermining the reliability of digital media used in investigations and prosecutions. As the boundary between authentic and synthetic material blurs, the ability of law enforcement, forensic analysts, and courts to assess evidentiary value is increasingly uncertain. This presentation addresses these challenges through a case study on the creation and dissemination of AI-generated child sexual abuse material (CSAM). It underscores the urgent need for robust forensic standards, reliable authentication protocols, and integrated technological and judicial literacy to preserve evidentiary integrity in an era where visual credibility can no longer be assumed.
+
+[Back to symposium programme](https://digsum.org/dda)
