@@ -1,3 +1,7 @@
 ## Spaces beyond control? A posthuman perspective on the regulation of digital spaces
+ 
+Digital spaces are often discussed as being beyond the means of control through law. Recent examples of this include both the dark web, as well as AI in general and large language models, such as Chat GPT in particular. The idea that law is lagging behind fuels both calls for new and stronger laws to fill an imagined void of norms as well as more innovative forms to regulate. This conceptualization of law’s limits can be identified for example in relation to the regulation of offensive or violent material, “normal” content as well as in other areas related to the regulation of technology. As such, it is a powerful tool for regulators to call for “more” or “new” laws when unwanted technological expressions occur. However, as we have witnessed through the development of both technologies and norms online, this perspective is insufficient if the goal is to control expressions in digital/ized spaces.
+ 
+This paper suggests that instead of a focus on a hidden void of norms or technological unknown, we pursue a perspective of law as a multi-layered, posthuman apparatus. This implies to consider both law and justice as a complex web of technologies where the main questions center around which normativities are being effectuated by the combination of legal, technological, as well as other, expressions. Doing so allows for a better description of which legalities unfold in both digital and non-digital spaces.
 
 [Back to symposium programme](https://digsum.org/dda)
